@@ -12,6 +12,7 @@ import dagger.hilt.android.AndroidEntryPoint
 
 
 class MainActivity : AppCompatActivity() {
+    // testing git
 
     private lateinit var binding: ActivityMainBinding
 
